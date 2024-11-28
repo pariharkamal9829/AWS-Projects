@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1 style="font-size: 36px; color: #2F855A; font-weight: bold;">Hosting a Static Website on AWS S3</h1>
   <p style="font-size: 18px; color: #555;">Welcome to the guide on hosting a static website using AWS S3. This README provides a step-by-step walkthrough for setting up and deploying a static website on AWS S3 with ease.</p>
 </div>
