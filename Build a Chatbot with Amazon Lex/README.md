@@ -7,7 +7,7 @@
 
 ## **Project Overview**
 
-<div align="center">
+<div align="left">
   <table style="border: 1px solid #ddd; border-collapse: collapse; width: 80%;">
     <tr>
       <th style="text-align: left; padding: 8px;">Goal</th>
