@@ -91,7 +91,7 @@ For further assistance or collaboration, feel free to reach out:
 
 ---
 
-<div align="center">
+<div align="left">
   <p style="font-size: 16px; color: #555;">Thank you for following this guide. I hope it helps you host your website seamlessly using AWS S3!</p>
   <strong>Author:</strong> Kamlesh Parihar
 </div>
