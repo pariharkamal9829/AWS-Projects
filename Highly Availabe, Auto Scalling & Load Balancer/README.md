@@ -1,4 +1,3 @@
-# Auto Scaling and Load Balancer in AWS: A Step-by-Step Guide
 
 <div align="left">
   <h1 style="font-size: 36px; color: #2F855A; font-weight: bold;">Auto Scaling and Load Balancer in AWS: A Step-by-Step Guide</h1>
@@ -39,7 +38,7 @@ This guide will help you set up an environment that scales your application base
 ## Architecture Diagram
 
 <div align="left">
-  <img src="./asg-basic-arch.png" alt="Auto Scaling and Load Balancer Architecture" style="max-width: 100%; height: auto;"/>
+  <img src="./asg-basic-arch.png" alt="Auto Scaling and Load Balancer Architecture" style= "height: 200px ; width: 200px;"/>
   <p style="font-size: 14px; color: #555;">Diagram: Auto Scaling and Load Balancer in AWS</p>
 </div>
 
@@ -107,7 +106,8 @@ You have now successfully set up **Auto Scaling** and **Load Balancer** in AWS! 
 ### Architecture Diagram:
 
 <div align="left">
-  <img src="./elb-tutorial-architecture-diagram.png" alt="AWS Auto Scaling and Load Balancer" style="max-width: 100%; height: auto;"/>
+ <img src="./elb-tutorial-architecture-diagram.png" alt="AWS Auto Scaling and Load Balancer" style="height: 400px; width: 400px;"/>
+
   <p style="font-size: 14px; color: #555;">AWS Auto Scaling and Load Balancer Diagram</p>
 </div>
 
