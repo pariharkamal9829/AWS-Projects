@@ -38,7 +38,7 @@ This guide will help you set up an environment that scales your application base
 ## Architecture Diagram
 
 <div align="left">
-  <img src="./asg-basic-arch.png" alt="Auto Scaling and Load Balancer Architecture" style= "height: 200px ; width: 200px;"/>
+  <img src="./asg-basic-arch.png" alt="Auto Scaling and Load Balancer Architecture" style= "height: 300px ; width: 100%;"/>
   <p style="font-size: 14px; color: #555;">Diagram: Auto Scaling and Load Balancer in AWS</p>
 </div>
 
@@ -106,7 +106,7 @@ You have now successfully set up **Auto Scaling** and **Load Balancer** in AWS! 
 ### Architecture Diagram:
 
 <div align="left">
- <img src="./elb-tutorial-architecture-diagram.png" alt="AWS Auto Scaling and Load Balancer" style="height: 400px; width: 400px;"/>
+ <img src="./elb-tutorial-architecture-diagram.png" alt="AWS Auto Scaling and Load Balancer" style="height: 400px; width: 100%;"/>
 
   <p style="font-size: 14px; color: #555;">AWS Auto Scaling and Load Balancer Diagram</p>
 </div>
