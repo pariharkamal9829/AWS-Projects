@@ -2,8 +2,9 @@
   <h1 style="font-size: 36px; color: #2F855A; font-weight: bold;">Visualize Netflix Data with Amazon QuickSight</h1>
   <p style="font-size: 18px; color: #555;">Learn how to analyze Netflix data trends and create insightful dashboards using Amazon QuickSight in just 90-120 minutes!</p>
 </div>
+---
 
-<img src="./ScreenShots/5.png" alt="Netflix Data Dashboard" width="800">
+<img src="./ScreenShots/architecture-diagram-removebg-preview.png" alt="Netflix Data Dashboard" width="400">
 
 ---
 
@@ -83,6 +84,10 @@
 1. Edit chart titles for clarity.
 2. Publish your dashboard and export it as a PDF.
 3. **Bonus Challenge:** Update your dataset in S3 and refresh it in QuickSight to see the changes reflected.
+
+---
+### **7. Final DashBoard**
+<img src="./ScreenShots/5.png" alt="Netflix Data Dashboard" width="800">
 
 ---
 
