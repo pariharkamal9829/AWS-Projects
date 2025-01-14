@@ -24,7 +24,8 @@ Hello, I'm **Kamlesh Parihar**, a passionate cloud enthusiast with hands-on expe
 ### **Project 1: Cloud Infrastructure Deployment**
 **Description:** Designed and deployed a scalable cloud infrastructure simulating real-world business use cases.  
 **Technologies Used:** AWS EC2, S3, Lambda, RDS, CloudFormation, IAM.  
-[**Link to Project README**](#)
+[**Link to Project README**](https://github.com/pariharkamal9829/AWS-Projects/blob/main/Highly%20Availabe%2C%20Auto%20Scalling%20%26%20Load%20Balancer/README.md)
+
 
 ---
 
