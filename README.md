@@ -66,7 +66,8 @@ Hello, I'm **Kamlesh Parihar**, a passionate cloud enthusiast with hands-on expe
 ### **Project 7: Data Analytics with AWS QuickSight**
 **Description:** Visualized complex datasets stored in S3 using AWS QuickSight for actionable insights.  
 **Technologies Used:** AWS S3, AWS QuickSight.  
-[**Link to Project README**](#)
+[**Link to Project README**](https://github.com/pariharkamal9829/AWS-Projects/blob/main/Visualize%20data%20with%20QuickSight%20of%20Netflix/README.md)
+
 
 ---
 
