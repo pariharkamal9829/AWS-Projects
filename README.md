@@ -83,7 +83,7 @@ If you have any questions, suggestions, or collaboration ideas, feel free to rea
 <div style="text-align: center;">
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kamlesh-parihar/">Kamlesh Parihar's LinkedIn</a>  
   <strong>GitHub:</strong> <a href="#">Kamlesh Parihar's GitHub</a>  
-  <strong>Email:</strong> <a href="mailto:kamlesh@example.com">kamlesh@example.com</a>  
+  <strong>Email:</strong> <a href="mailto:pariharkamal9829@gmail.com">pariharkamal9829@gmail.com</a>  
 </div>
 
 ---
