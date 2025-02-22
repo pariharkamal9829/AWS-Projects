@@ -4,7 +4,6 @@
 </div>
 
 ---
-//hi
 ## Table of Contents
 1. [About Me](#about-me)
 2. [Projects Overview](#projects-overview)
